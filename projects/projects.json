@@ -1,0 +1,53 @@
+[
+  {
+    "name": "PHP PDO login system",
+    "desc": "PHP-PDO based login system with database integration, enabling seamless user login and storage of login details while ensuring data integrity and protection",
+    "image": "phppdo",
+    "category": "Web",
+    "links": {
+      "view": "https://github.com/kashyap310/Login-System-with-php-PDO",
+      "code": "https://github.com/kashyap310/Login-System-with-php-PDO"
+    }
+  },
+  {
+    "name": "E-MAIL SPAM DETECTION ",
+    "desc": "An advanced email spam detection system using a dataset containing both spam and ham emails",
+    "image": "emailspam",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://github.com/kashyap310/Email-spam-classifier",
+      "code": "https://github.com/kashyap310/Email-spam-classifier"
+    }
+  },
+  {
+    "name": "SERVER MONITORING TOOL",
+    "desc": "The tool remotely assesses server services uptime through ping commands and performs checks on FTP, SMTP, SSH, and SSL services.",
+    "image": "servermonitor",
+    "category": "web",
+    "links": {
+      "view": "/#",
+      "code": "/#"
+    }
+  },
+  {
+    "name": "Python keylogger",
+    "desc": "the keylogger tool created in python , sends all keystroks to the configured email with sha256 encryption",
+    "image": "keylogger",
+    "category": "Tool",
+    "links": {
+      "view": "https://github.com/kashyap310/Python_KeyLogger",
+      "code": "https://github.com/kashyap310/Python_KeyLogger"
+    }
+  },
+  {
+    "name": "AI TRAFFIC-MANAGEMENT PROJECT",
+    "desc": "n AI-based Traffic Management System utilizing street cameras to monitor and count vehicle traffic on each lane throughout the day during the learning phase.",
+    "image": "traffic",
+    "category": "Machine Learning",
+    "links": {
+      "view": "/#",
+      "code": "/#"
+    }
+  }
+
+]
