@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Networking",
+        "icon": "assets/images/skills/networking.png"
+    },
+    {
+        "name": "Kali Linux",
+        "icon": "assets/images/skills/linux.png"
+    },
+    {
+        "name": "Network security",
+        "icon": "assets/images/skills/icons8-database-65.png"
+    },
+    {
+        "name": "Python",
+        "icon": "assets/images/skills/python.png"
+    },
+    {
+        "name": "C",
+        "icon": "assets/images/skills/icons8-c-64.png"
+    },
+    {
+        "name": "C++",
+        "icon": "assets/images/skills/icons8-c-48.png"
+    },
+    {
+        "name": "Protocols",
+        "icon": "assets/images/skills/techny-neural-network.png"
+    },
+    {
+        "name": "IT support",
+        "icon": "assets/images/skills/icons8-support-48.png"
+    },
+    {
+        "name": "Troubleshooting",
+        "icon": "assets/images/skills/bonny-tech-support-symbol.png"
+    } ,
+     {
+        "name": "HTML",
+        "icon": "assets/images/skills/icons8-html-48.png"
+    },
+    {
+        "name": "Javascript",
+        "icon": "assets/images/skills/icons8-javascript-48.png"
+    },
+    {
+        "name": "VAPT",
+        "icon": "assets/images/skills/icons8-hacker-48.png"
+    }
+]
